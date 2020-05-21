@@ -1,0 +1,39 @@
+body {
+    background-color: #AAA;
+    text-align: center;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 1.3em;
+}
+.col-control {
+    margin-left:auto;
+    margin-right: auto;
+}
+table {
+   
+    background-color: #aaa;
+    color:#aaa;
+    text-align: center;
+}
+table td {
+    font-size:20px;
+}
+.quadr {
+    float:left;
+
+    background-color: white;
+    font-size: 6vw;
+    width:33%;
+    height:12vw;
+   
+    border:3px solid #000;
+}
+#result_container {
+    display:flex;
+   
+    justify-content: center;
+}
+
+
+.table td, .table th {
+    border-top:0px;
+}
